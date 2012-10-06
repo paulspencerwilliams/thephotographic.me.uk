@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://walkingwithwilliams.me.uk
+title: Walking With Williams 
+subtitle: I hill-walk. There, I said it. 
+author: Paul Williams 
 simple_search: http://google.com/search
 description:
 
