@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project PeakÂ© 1 - The Pike'
+title: 'Project Peaks 1 - The Pike'
 
 ---
 
